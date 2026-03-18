@@ -1,6 +1,6 @@
 # Willkommen zur Dokumentation
 
-Diese Seite beschreibt das Projekt **Git hub Docs**. Hier findest du alle relevanten Informationen zu den Grundlagen, Prinzipien und Einsatzbereichen von Lean.
+Diese Seite beschreibt das Projekt **Git hub Docs**.
 
 ## Inhalt
 
